@@ -2,7 +2,8 @@
   <a href="https://github.com/DurinPavel/critics_and_video_games/blob/main/README_EN.md" target="_blank">
     <p>English version</p></a>
     <p align="justify">
-      Целью данного проекта является то, чтобы на основе имеющегося набора данных сформулировать нулевую 
+      Целью данного проекта является то, чтобы на основе имеющегося <a href="https://github.com/DurinPavel/critics_and_video_games/blob/main/vgsales.csv" target="_blank">
+      набора данных</a> сформулировать нулевую 
       и альтернативную гипотезы, выбрать пороговые уровни статистической значимости и описать полученные
       результаты статистических тестов.
     </p>
