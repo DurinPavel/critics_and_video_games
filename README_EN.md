@@ -2,8 +2,9 @@
   <a href="https://github.com/DurinPavel/critics_and_video_games/blob/main/README.md" target="_blank">
     <p>Russian version</p></a>
     <p align="justify">
-      The purpose of this project is to formulate null and alternative hypotheses based on the available 
-      data set, select threshold levels of statistical significance and describe the results of statistical tests.
+      The purpose of this project is to formulate null and alternative hypotheses based on the available
+      <a href="https://github.com/DurinPavel/critics_and_video_games/blob/main/vgsales.csv" target="_blank">
+      data set</a>, select threshold levels of statistical significance and describe the results of statistical tests.
     </p>
     <p align="justify">
       The work used the capabilities of such <i>Python</i> libraries as: <i>Pandas, Numpy, Scipy, Matplotlib</i>.
